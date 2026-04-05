@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an innovative Full Stack Web Developer passionate about building scalable and user-friendly applications.
+I'm an innovative Full Stack  Developer passionate about building scalable and user-friendly applications.
 
 - 🔭 I’m currently working on: **MERN Stack Projects**
 - 👀 I’m interested in: Web Development, UI/UX, System Design
